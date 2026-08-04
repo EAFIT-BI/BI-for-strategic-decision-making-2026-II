@@ -23,10 +23,6 @@ Hands-on BI course progressing through a full analytics stack, using real-world 
 └── README.md
 ```
 
-## Datasets
-
-Primary dataset: [Exportaciones Bogotá](https://datosabiertos.bogota.gov.co) — real Colombian export data, used to build a star schema (fact table + dimensions including country/continent and a monthly calendar table).
-
 ## Tools
 
 - Excel (Power Query, Power Pivot)
